@@ -8,12 +8,13 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [All of AI: ChatGPT, Midjourney, Stable Diffusion \& App Dev](#all-of-ai-chatgpt-midjourney-stable-diffusion--app-dev)
   - [Table of Contents](#table-of-contents)
-  - [Week 1 - AI Fundamentals, ChatGPT, and the Evolving LLM Landscape](#week-1---ai-fundamentals-chatgpt-and-the-evolving-llm-landscape)
+  - [Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI](#week-1---ai-fundamentals-chatgpt-and-the-future-of-general-ai)
     - [Day 1: AI Fundamentals and Introduction to Large Language Models](#day-1-ai-fundamentals-and-introduction-to-large-language-models)
     - [Day 2: Course Overview, Goals, and Important Resources](#day-2-course-overview-goals-and-important-resources)
     - [Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape](#day-3-chatgpt-free-vs-paid-features-and-the-evolving-llm-landscape)
+    - [Day 4: The History and Future of AI—From Turing Test to Foundation Agents](#day-4-the-history-and-future-of-aifrom-turing-test-to-foundation-agents)
 
-## Week 1 - AI Fundamentals, ChatGPT, and the Evolving LLM Landscape
+## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
 ### Day 1: AI Fundamentals and Introduction to Large Language Models
 
@@ -57,3 +58,18 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 **Resources**:
 
 - [day3.ipynb](./notes/day3.ipynb)
+
+### Day 4: The History and Future of AI—From Turing Test to Foundation Agents
+
+**What I did today:**
+
+- Reviewed the historical evolution of AI, from early concepts like the Turing Test to landmark achievements such as AlphaGo by DeepMind.
+- Reflected on the importance of active learning and hands-on engagement with AI tools, emphasizing the value of creating a ChatGPT account and experimenting with prompts as a foundation for mastering prompt engineering.
+- Explored the reasons behind the current AI hype, including the roles of machine learning, deep learning, and neural networks in driving recent breakthroughs.
+- Summarized Nvidia's vision for the future of AI, focusing on the development of general-purpose "Foundation Agents" capable of mastering diverse skills, embodiments, and realities, as presented in Jim Fan's TED Talk.
+- Examined key Nvidia projects such as Project Voyager (autonomous skill learning in Minecraft via LLM-generated code), Project Metamorph (generalized robot control), and Isaac Sim (advanced simulation for AI training and Sim2Real transfer).
+- Considered the broader implications of general AI agents, including lifelong learning, coding as action, and the ethical and societal impacts of deploying highly capable autonomous systems.
+
+**Resources**:
+
+- [day4.ipynb](./notes/day4.ipynb)
