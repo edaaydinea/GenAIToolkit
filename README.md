@@ -8,11 +8,12 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [All of AI: ChatGPT, Midjourney, Stable Diffusion \& App Dev](#all-of-ai-chatgpt-midjourney-stable-diffusion--app-dev)
   - [Table of Contents](#table-of-contents)
-  - [Week 1 - AI Fundamentals and Course Introduction](#week-1---ai-fundamentals-and-course-introduction)
+  - [Week 1 - AI Fundamentals, ChatGPT, and the Evolving LLM Landscape](#week-1---ai-fundamentals-chatgpt-and-the-evolving-llm-landscape)
     - [Day 1: AI Fundamentals and Introduction to Large Language Models](#day-1-ai-fundamentals-and-introduction-to-large-language-models)
     - [Day 2: Course Overview, Goals, and Important Resources](#day-2-course-overview-goals-and-important-resources)
+    - [Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape](#day-3-chatgpt-free-vs-paid-features-and-the-evolving-llm-landscape)
 
-## Week 1 - AI Fundamentals and Course Introduction
+## Week 1 - AI Fundamentals, ChatGPT, and the Evolving LLM Landscape
 
 ### Day 1: AI Fundamentals and Introduction to Large Language Models
 
@@ -26,7 +27,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 **Resources**:
 
-- [day1.ipynb](./notes/day1.ipynb) 
+- [day1.ipynb](./notes/day1.ipynb)
 
 ### Day 2: Course Overview, Goals, and Important Resources
 
@@ -40,5 +41,19 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 **Resources**:
 
-- [day2.ipynb](./notes/day2.ipynb) 
+- [day2.ipynb](./notes/day2.ipynb)
 
+### Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape
+
+**What I did today:**
+
+- Explored the rapid pace of AI advancements, including frequent updates to models like GPT-4o (Omni) and how these changes impact feature accessibility (e.g., previously paid features becoming free).
+- Learned how to create a ChatGPT account, navigate the web interface, and manage settings such as chat history, data controls, and beta features, with a focus on privacy considerations for data science work.
+- Compared the free (GPT-3.5) and paid (GPT-4) versions of ChatGPT, highlighting differences in capabilities, access to advanced features (like DALL-E 3, web browsing, Advanced Data Analysis), and practical implications for data scientists.
+- Examined the core outputs of LLMs—text, tables, and code—and discussed how prompt engineering can enhance these outputs for data science tasks.
+- Investigated new features such as ChatGPT Search, Canvas for interactive editing, and the introduction of "o1 Preview/Mini" models for advanced reasoning (System 2 thinking).
+- Reflected on the fundamental operations of LLMs (summarization and expansion) and the integration of multimodal capabilities (text, vision, audio) in the latest models.
+
+**Resources**:
+
+- [day3.ipynb](./notes/day3.ipynb)
