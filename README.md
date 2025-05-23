@@ -26,7 +26,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 **Resources**:
 
-- [day2.ipynb](./notes/day2.ipynb) 
+- [day1.ipynb](./notes/day1.ipynb) 
 
 ### Day 2: Course Overview, Goals, and Important Resources
 
@@ -40,5 +40,5 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 **Resources**:
 
-- [day1.ipynb](./notes/day1.ipynb) 
+- [day2.ipynb](./notes/day2.ipynb) 
 
