@@ -13,6 +13,8 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 2: Course Overview, Goals, and Important Resources](#day-2-course-overview-goals-and-important-resources)
     - [Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape](#day-3-chatgpt-free-vs-paid-features-and-the-evolving-llm-landscape)
     - [Day 4: The History and Future of AI—From Turing Test to Foundation Agents](#day-4-the-history-and-future-of-aifrom-turing-test-to-foundation-agents)
+  - [Week 2 - Mastering Prompt Engineering for Enhanced LLM Interaction](#week-2---mastering-prompt-engineering-for-enhanced-llm-interaction)
+    - [Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques](#day-5-fundamentals-of-prompt-engineering-context-structure-and-advanced-techniques)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -73,3 +75,23 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 **Resources**:
 
 - [day4.ipynb](./notes/day4.ipynb)
+
+
+## Week 2 - Mastering Prompt Engineering for Enhanced LLM Interaction
+
+### Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques
+
+**What I did today:**
+
+- Understood the critical importance of prompt engineering for obtaining accurate and relevant answers from LLMs, recognizing that LLMs require specific guidance to emulate human-like reasoning.
+- Explored the concept of semantic association as the cornerstone of effective prompt engineering, learning how LLMs link words to networks of related concepts and how specificity in prompts refines these associations.
+- Differentiated between effective and "bad" prompts, emphasizing that prompts lacking context, specificity, and clear goals lead to generic outputs, and highlighted the necessity of domain knowledge for evaluating LLM responses.
+- Learned practical techniques to improve prompts, such as providing detailed context (Tip #1), using structured prompts (Modifier, Topic, Additional Modifiers like target audience), and employing instruction prompting.
+- Investigated advanced prompting strategies including role prompting (assigning a persona to the LLM), shot prompting (zero-shot, one-shot, and few-shot examples), and the use of seemingly counter-intuitive phrases ("Let's think step by step," "Take a deep breath") to enhance output quality.
+- Recognized the power of combining these various prompting techniques to create sophisticated, layered instructions that elicit superior and highly tailored outputs from LLMs.
+
+**Resources**:
+
+- [day5.ipynb](./notes/day5.ipynb)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Learn Prompting](https://learnprompting.org/docs/intro)
