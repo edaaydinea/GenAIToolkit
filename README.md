@@ -15,6 +15,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 4: The History and Future of AI—From Turing Test to Foundation Agents](#day-4-the-history-and-future-of-aifrom-turing-test-to-foundation-agents)
   - [Week 2 - Mastering Prompt Engineering for Enhanced LLM Interaction](#week-2---mastering-prompt-engineering-for-enhanced-llm-interaction)
     - [Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques](#day-5-fundamentals-of-prompt-engineering-context-structure-and-advanced-techniques)
+    - [Day 6: Optimizing RAG Applications - Data Preparation, Chunking, and Tools](#day-6-optimizing-rag-applications---data-preparation-chunking-and-tools)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -95,3 +96,17 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 - [day5.ipynb](./notes/day5.ipynb)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Learn Prompting](https://learnprompting.org/docs/intro)
+
+### Day 6: Optimizing RAG Applications - Data Preparation, Chunking, and Tools
+
+**What I did today:**
+
+- Understood that high-quality, well-structured data is crucial for effective Retrieval Augmented Generation (RAG) applications, and that real-world data (PDFs, websites) often requires significant preprocessing.
+- Explored tools for converting unstructured data into LLM-friendly markdown: Firecrawl for extracting content from websites and LlamaParse (from LlamaIndex) for processing local files like PDFs, CSVs, and Word documents.
+- Learned about the LlamaParse web interface on LlamaCloud for easier, no-code PDF-to-markdown conversion.
+- Investigated the importance of chunk size and chunk overlap in RAG, understanding how these parameters affect retrieval accuracy and contextual understanding by addressing issues like LLM's "lost in the middle" problem and maintaining semantic continuity.
+- Reviewed general guidelines for setting chunk size based on content type (long-form narratives, general documents, lists) and chunk overlap (typically 1-5% of chunk size), emphasizing the necessity of experimentation for optimal results.
+
+**Resources**:
+
+- [day6.ipynb](./notes/day6.ipynb)
