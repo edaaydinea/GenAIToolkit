@@ -13,11 +13,11 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 2: Course Overview, Goals, and Important Resources](#day-2-course-overview-goals-and-important-resources)
     - [Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape](#day-3-chatgpt-free-vs-paid-features-and-the-evolving-llm-landscape)
     - [Day 4: The History and Future of AI—From Turing Test to Foundation Agents](#day-4-the-history-and-future-of-aifrom-turing-test-to-foundation-agents)
-  - [Week 2 - Advanced Prompt Engineering and LLM Interaction Strategies](#week-2---advanced-prompt-engineering-and-llm-interaction-strategies)
+  - [Week 2 - Advanced Prompt Engineering, RAG, and Prompt Generation Strategies](#week-2---advanced-prompt-engineering-rag-and-prompt-generation-strategies)
     - [Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques](#day-5-fundamentals-of-prompt-engineering-context-structure-and-advanced-techniques)
     - [Day 6: Optimizing RAG Applications - Data Preparation, Chunking, and Tools](#day-6-optimizing-rag-applications---data-preparation-chunking-and-tools)
     - [Day 7: Advanced Prompting Techniques and Sequential Prompting](#day-7-advanced-prompting-techniques-and-sequential-prompting)
-    - [Day 8: Making Prompt Generators and use special techniques](#day-8-making-prompt-generators-and-use-special-techniques)
+    - [Day 8: Building Prompt Generators and Exploring Special Prompting Techniques](#day-8-building-prompt-generators-and-exploring-special-prompting-techniques)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -80,7 +80,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 - [day4.ipynb](./notes/day4.ipynb)
 
 
-## Week 2 - Advanced Prompt Engineering and LLM Interaction Strategies
+## Week 2 - Advanced Prompt Engineering, RAG, and Prompt Generation Strategies
 
 ### Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques
 
@@ -130,5 +130,18 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day7.ipynb](./notes/day7.ipynb)
 
-### Day 8: Making Prompt Generators and use special techniques
+
+### Day 8: Building Prompt Generators and Exploring Special Prompting Techniques
+
+**What I did today:**
+
+- Learned about **Prompt Generators**, understanding their role in automating prompt creation for consistency, scalability, and experimentation, and saw a conceptual Python example.
+- Explored **Reverse Prompt Engineering**, a technique to deduce the original prompt from a desired LLM output, aiding in understanding model behavior.
+- Understood **Instruction-Meta-Prompting (IMP)**, where an LLM is prompted to generate or refine prompts for other LLMs or subsequent tasks.
+- Studied **Structured Prompts and Frameworks** like APE (Action, Purpose, Expectation) and CRISPE, which provide templates for clear, complete, and consistent prompt construction.
+- Investigated techniques for **Eliciting Latent Knowledge** from LLMs, such as using analogies and step-by-step reasoning, to access deeper insights.
+
+**Resources**:
+
+- [day8.ipynb](./notes/day8.ipynb)
 
