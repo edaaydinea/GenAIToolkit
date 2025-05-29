@@ -13,9 +13,11 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 2: Course Overview, Goals, and Important Resources](#day-2-course-overview-goals-and-important-resources)
     - [Day 3: ChatGPT, Free vs. Paid Features, and the Evolving LLM Landscape](#day-3-chatgpt-free-vs-paid-features-and-the-evolving-llm-landscape)
     - [Day 4: The History and Future of AI—From Turing Test to Foundation Agents](#day-4-the-history-and-future-of-aifrom-turing-test-to-foundation-agents)
-  - [Week 2 - Mastering Prompt Engineering for Enhanced LLM Interaction](#week-2---mastering-prompt-engineering-for-enhanced-llm-interaction)
+  - [Week 2 - Advanced Prompt Engineering and LLM Interaction Strategies](#week-2---advanced-prompt-engineering-and-llm-interaction-strategies)
     - [Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques](#day-5-fundamentals-of-prompt-engineering-context-structure-and-advanced-techniques)
     - [Day 6: Optimizing RAG Applications - Data Preparation, Chunking, and Tools](#day-6-optimizing-rag-applications---data-preparation-chunking-and-tools)
+    - [Day 7: Advanced Prompting Techniques and Sequential Prompting](#day-7-advanced-prompting-techniques-and-sequential-prompting)
+    - [Day 8: Making Prompt Generators and use special techniques](#day-8-making-prompt-generators-and-use-special-techniques)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -78,7 +80,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 - [day4.ipynb](./notes/day4.ipynb)
 
 
-## Week 2 - Mastering Prompt Engineering for Enhanced LLM Interaction
+## Week 2 - Advanced Prompt Engineering and LLM Interaction Strategies
 
 ### Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques
 
@@ -110,3 +112,23 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 **Resources**:
 
 - [day6.ipynb](./notes/day6.ipynb)
+
+
+### Day 7: Advanced Prompting Techniques and Sequential Prompting
+
+**What I did today:**
+
+- Explored advanced prompting strategies to enhance LLM reasoning and problem-solving capabilities.
+- Learned about **Chain-of-Thought (CoT) Prompting**, which guides LLMs to generate intermediate reasoning steps for complex tasks.
+- Understood **Self-Consistency**, a technique that improves CoT by sampling multiple reasoning paths and selecting the most consistent answer.
+- Investigated **Tree of Thoughts (ToT) Prompting**, a method that allows LLMs to explore and evaluate multiple reasoning paths in a tree-like structure.
+- Studied **Sequential Prompting**, a technique for breaking down complex tasks into a series of simpler, interconnected prompts.
+- Examined the **ReAct (Reason and Act) Framework**, which enables LLMs to combine reasoning with actions (like tool usage) to interact with external environments and solve tasks.
+- Reflected on how these advanced techniques facilitate more sophisticated interactions and workflows with LLMs.
+
+**Resources**:
+
+- [day7.ipynb](./notes/day7.ipynb)
+
+### Day 8: Making Prompt Generators and use special techniques
+
