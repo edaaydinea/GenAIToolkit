@@ -19,6 +19,8 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 7: Advanced Prompting Techniques and Sequential Prompting](#day-7-advanced-prompting-techniques-and-sequential-prompting)
     - [Day 8: Building Prompt Generators and Exploring Special Prompting Techniques](#day-8-building-prompt-generators-and-exploring-special-prompting-techniques)
     - [Day 9: Real-World ChatGPT Applications - Learning, Translation, Health, and Creativity](#day-9-real-world-chatgpt-applications---learning-translation-health-and-creativity)
+  - [Week 3 - ChatGPT as Author and Text Assistant](#week-3---chatgpt-as-author-and-text-assistant)
+    - [Day 10: ChatGPT as Author and Text Assistant](#day-10-chatgpt-as-author-and-text-assistant)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -80,7 +82,6 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day4.ipynb](./notes/day4.ipynb)
 
-
 ## Week 2 - Advanced Prompt Engineering, RAG, and Real-World ChatGPT Applications
 
 ### Day 5: Fundamentals of Prompt Engineering: Context, Structure, and Advanced Techniques
@@ -114,7 +115,6 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day6.ipynb](./notes/day6.ipynb)
 
-
 ### Day 7: Advanced Prompting Techniques and Sequential Prompting
 
 **What I did today:**
@@ -130,7 +130,6 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 **Resources**:
 
 - [day7.ipynb](./notes/day7.ipynb)
-
 
 ### Day 8: Building Prompt Generators and Exploring Special Prompting Techniques
 
@@ -161,3 +160,19 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day9.ipynb](./notes/day9.ipynb)
 
+## Week 3 - ChatGPT as Author and Text Assistant
+
+### Day 10: ChatGPT as Author and Text Assistant
+
+**What I did today:**
+
+- Established a best-practice framework for AI-powered content creation, centered on the principle of only generating text on subjects of personal expertise to ensure accurate fact-checking and quality control.
+- Mastered a structured, top-down workflow for large-scale writing projects, utilizing `Custom Instructions` for persistent context and generating a full outline before iteratively writing content section-by-section.
+- Developed practical experience with few-shot prompting to effectively train ChatGPT on a personal writing style, ensuring brand voice consistency across generated blog posts and articles.
+- Learned to dynamically control the output's tone and complexity by prompting the AI to rewrite text with specific emotional targets (e.g., fear, joy) or varying levels of technical depth.
+- Investigated the functionality of AI content detectors and learned that training the AI on a unique human writing style is a key strategy to significantly reduce the likelihood of detection.
+- Reinforced the critical importance of manual oversight, recognizing that the user is ultimately responsible for reviewing, editing, and verifying all AI-generated content before publication.
+
+**Resources**:
+
+- [day10.ipynb](./notes/day10.ipynb)
