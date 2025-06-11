@@ -19,8 +19,9 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 7: Advanced Prompting Techniques and Sequential Prompting](#day-7-advanced-prompting-techniques-and-sequential-prompting)
     - [Day 8: Building Prompt Generators and Exploring Special Prompting Techniques](#day-8-building-prompt-generators-and-exploring-special-prompting-techniques)
     - [Day 9: Real-World ChatGPT Applications - Learning, Translation, Health, and Creativity](#day-9-real-world-chatgpt-applications---learning-translation-health-and-creativity)
-  - [Week 3 - ChatGPT as Author and Text Assistant](#week-3---chatgpt-as-author-and-text-assistant)
+  - [Week 3 - ChatGPT as Author, AI Content Creation, and Social Media](#week-3---chatgpt-as-author-ai-content-creation-and-social-media)
     - [Day 10: ChatGPT as Author and Text Assistant](#day-10-chatgpt-as-author-and-text-assistant)
+    - [Day 11: AI for Content Creation - SEO, Scripts, Social Media, and Personalization](#day-11-ai-for-content-creation---seo-scripts-social-media-and-personalization)
 
 ## Week 1 - AI Fundamentals, ChatGPT, and the Future of General AI
 
@@ -160,7 +161,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day9.ipynb](./notes/day9.ipynb)
 
-## Week 3 - ChatGPT as Author and Text Assistant
+## Week 3 - ChatGPT as Author, AI Content Creation, and Social Media
 
 ### Day 10: ChatGPT as Author and Text Assistant
 
@@ -176,3 +177,19 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 **Resources**:
 
 - [day10.ipynb](./notes/day10.ipynb)
+
+### Day 11: AI for Content Creation - SEO, Scripts, Social Media, and Personalization
+
+**What I did today:**
+
+- Learned to use ChatGPT for SEO-focused copywriting, emphasizing Latent Semantic Indexing (LSI) and structured, iterative prompts to generate optimized web copy.
+- Explored using ChatGPT for keyword research and refining content tone for improved readability and SEO.
+- Mastered a workflow for creating and repurposing content across platforms (podcasts, YouTube, TikTok) using ChatGPT, including strategies for ad ratios and subtle calls-to-action (CTAs).
+- Developed a method to generate a comprehensive Instagram growth strategy with ChatGPT, covering profile optimization, content planning (posts, Stories, Reels), posting schedules, hashtag research, and on-demand caption writing.
+- Understood how to "train" ChatGPT on a personal writing style using few-shot prompting to produce new content that maintains a consistent brand voice.
+- Reinforced the versatility of ChatGPT for generating new content and refining existing text for various platforms and purposes, such as public speaking.
+
+**Resources**:
+
+- [day11.ipynb](./notes/day11.ipynb)
+
