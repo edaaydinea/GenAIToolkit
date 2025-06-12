@@ -19,7 +19,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
     - [Day 7: Advanced Prompting Techniques and Sequential Prompting](#day-7-advanced-prompting-techniques-and-sequential-prompting)
     - [Day 8: Building Prompt Generators and Exploring Special Prompting Techniques](#day-8-building-prompt-generators-and-exploring-special-prompting-techniques)
     - [Day 9: Real-World ChatGPT Applications - Learning, Translation, Health, and Creativity](#day-9-real-world-chatgpt-applications---learning-translation-health-and-creativity)
-  - [Week 3 - ChatGPT as Author, AI Content Creation, and Social Media](#week-3---chatgpt-as-author-ai-content-creation-and-social-media)
+  - [Week 3 - ChatGPT as Author, AI Content Creation, and Applications for Career \& Life](#week-3---chatgpt-as-author-ai-content-creation-and-applications-for-career--life)
     - [Day 10: ChatGPT as Author and Text Assistant](#day-10-chatgpt-as-author-and-text-assistant)
     - [Day 11: AI for Content Creation - SEO, Scripts, Social Media, and Personalization](#day-11-ai-for-content-creation---seo-scripts-social-media-and-personalization)
     - [Day 12: Job, Career and Life: LLMs can help a lot!](#day-12-job-career-and-life-llms-can-help-a-lot)
@@ -162,7 +162,7 @@ This extensive AI course offers a comprehensive curriculum, guiding learners fro
 
 - [day9.ipynb](./notes/day9.ipynb)
 
-## Week 3 - ChatGPT as Author, AI Content Creation, and Social Media
+## Week 3 - ChatGPT as Author, AI Content Creation, and Applications for Career & Life
 
 ### Day 10: ChatGPT as Author and Text Assistant
 
